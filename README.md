@@ -20,6 +20,7 @@ nest generate service space
 ## Creating an interface
 ```bash
 nest generate interface space/space
+nest generate interface space/astros
 ```
 ## Running the app
 
